@@ -6,10 +6,10 @@ Ce projet consiste en la création d'un tableau de bord interactif de ventes en 
 Fichiers CSV : Ce projet utilise les fichiers CSV suivants :
 
 
-Sales-complete.csv
+ -> Sales-complete.csv
 
-Customers-complete.csv
+-> Customers-complete.csv
 
-Products-complete.csv
+-> Products-complete.csv
 
 
